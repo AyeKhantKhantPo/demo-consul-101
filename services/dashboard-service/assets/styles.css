@@ -17,11 +17,11 @@
 */
 
 body {
-  background: #c62a71;
-  background: -moz-linear-gradient(-45deg, #c62a71 0%, #771944 100%);
-  background: -webkit-linear-gradient(-45deg, #c62a71 0%,#771944 100%);
-  background: linear-gradient(135deg, #c62a71 0% ,#771944 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c62a71', endColorstr='#771944',GradientType=1 );
+  background: #1d4ed8;
+  background: -moz-linear-gradient(-45deg, #1d4ed8 0%, #0f172a 100%);
+  background: -webkit-linear-gradient(-45deg, #1d4ed8 0%,#0f172a 100%);
+  background: linear-gradient(135deg, #1d4ed8 0% ,#0f172a 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1d4ed8', endColorstr='#0f172a',GradientType=1 );
 
   /* height: 100%; /* Firefox background fix */ */
 
@@ -40,7 +40,7 @@ h1 {
 }
 
 #line {
-  border-bottom: 10px solid #771944;
+  border-bottom: 10px solid #0f172a;
   width: 4em;
 }
 
